@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Assignments
 
 - ## [Assignment -1](https://github.com/pintuiitbhi/Data-Science/tree/master/Assignment-1) 
      - [Question 1](https://github.com/pintuiitbhi/Data-Science/tree/master/Assignment-1/Question-1)
