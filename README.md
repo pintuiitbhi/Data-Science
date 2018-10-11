@@ -2,7 +2,7 @@
 
 - ## [Assignment -1](https://github.com/pintuiitbhi/Data-Science/tree/master/Assignment-1) | SVM
      - [Question 1](https://github.com/pintuiitbhi/Data-Science/tree/master/Assignment-1/Question-1)
-       - ** Regression**  | To predict medical insurance cost
+       - **Regression**  | To predict medical insurance cost
      - [Question 2](https://github.com/pintuiitbhi/Data-Science/tree/master/Assignment-1/Question-2)
        - Classification | To classify if a customer will leave or stay in a company
 
